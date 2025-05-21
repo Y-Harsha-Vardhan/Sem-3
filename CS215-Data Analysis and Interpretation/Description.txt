@@ -1,0 +1,10 @@
+The role of statisitcs. 
+Graphical and numerical methods for describing and summarising data. 
+Probability. 
+Population distributions. 
+Sampling variability and sampling distributions. 
+Estimation using a single sample. 
+Hypothesis testing a single sample. 
+Comparing two populations or treatments. 
+Simple linear regression and correlation. 
+Case studies.

@@ -1,0 +1,7 @@
+Introduction to data structures, abstract data types, analysis of algorithms.
+
+Creation and manipulation of data structures: 
+arrays, lists, stacks, queues, trees, heaps, hash tables, balanced trees, tries, graphs. 
+
+Algorithms for sorting and searching, order statistics, depth-first and breadth-first search, 
+shortest paths and minimum spanning tree.
