@@ -4,17 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3e840d1c1cd082be",
+        "id": "660152a1ff2a96b7",
         "type": "tabs",
         "children": [
           {
-            "id": "014ccb32e3afae1b",
+            "id": "c9849071919b0022",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "CS228-Logic/Logic In Computer Science.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Logic In Computer Science"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d7d96ef09f0a4037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edbb379ddfc765f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Computer Logic.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Computer Logic"
             }
           }
         ]
@@ -74,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6fca993420b8398",
@@ -156,7 +179,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,25 +200,33 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "014ccb32e3afae1b",
+  "active": "c9849071919b0022",
   "lastOpenFiles": [
-    "Sem-3-Resources/CS228/Slides/Lecture_30_DBA_and_NBA.pdf",
-    "Sem-3-Resources/CS228/Slides/Lecture_23_MSO_Regular_Languages.pdf",
-    "Sem-3-Resources/CS228/Slides/Lecture_22_MSO.pdf",
-    "Sem-3-Resources/CS228/Slides/Lecture_32-34_GNBA.pdf",
-    "Sem-3-Resources/CS228/Slides/Lecture_10_FOL_Syntax.pdf",
-    "Sem-3-Resources/CS228/Slides/Lecture_11_FOL_Semantics.pdf",
-    "Sem-3-Resources/CS228/Slides/Lecture_12_FOL_SAT.pdf",
-    "Sem-3-Resources/CS228/Slides/Lecture_15_FOL_Words.pdf",
-    "Sem-3-Resources/CS228/Slides/Lecture_16_FOL_FSM_01.pdf",
-    "Sem-3-Resources/CS228/Slides/Lecture_17_FOL_FSM_02.pdf",
-    "Sem-3-Resources/CS228/Slides/Lecture_18_FOL_NFA.pdf",
+    "CS228-Logic/Logic In Computer Science.pdf",
+    "Notes/Computer Logic.md",
+    "🔲Kanban/Summer 2025.md",
+    "Notes/Quantitative Finance/Week 1-Probability And Stochastic Calculus.md",
+    "🔲Kanban",
+    "CS213-DSA/Algorithms and Applications in C++.pdf",
+    "CS213-DSA/Introduction To Algorithms.pdf",
+    "CS230-Design and Architecture/Logic and Computer Design Fundamentals.pdf",
+    "CS230-Design and Architecture/Digital Design and Computer Architecture.pdf",
+    "CS230-Design and Architecture/Computer Organization and Design.pdf",
+    "CS230-Design and Architecture/Computer Architecture.pdf",
+    "Notes/Logical and Greek Symbols.md",
+    "Notes/CP SoS/Selected Problems Thinking Explanation.md",
+    "Notes/CP SoS/Codeforces Solved Problems.md",
+    "Notes/Economics.md",
+    "Untitled Kanban.md",
+    "Notes/Quantitative Finance/Week 1 Probability And Stochastic Calculus 20d8bee770268088baa1f5dea6883dfd.md",
+    "Notes/Quantitative Finance/Week 1 - Probability And Stochastic Calculus.md",
+    "Notes/CP SoS",
+    "Notes/New folder",
+    "Notes/Selected Problems Thinking Explanation.md",
+    "Notes/Codeforces Solved Problems.md",
     "2025-06-07.md",
     "2025-06-06.md",
     "Sem-3-Resources/CS293/Resources/Aut23-Quiz2/README.md",
-    "Notes/Logical and Greek Symbols.md",
-    "Notes/Economics.md",
-    "Notes/Computer Logic.md",
     "CS228-Logic/Description.md",
     "Computer Logic.md",
     "Sem-3-Resources/README.md"

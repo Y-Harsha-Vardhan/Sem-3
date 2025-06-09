@@ -1,8 +1,8 @@
 ## Natural Deduction:
 
--  Given a set of #premises, we deduce a #conclusion which is also a formula using proof rules
+-  Given a set of **premises**, we deduce a **conclusion** which is also a formula using proof rules
 -  $\phi_1,....,\phi_n \vdash \psi$  : This is called a sequent.   
--  $\phi_1,....,\phi_n$  are #premises, and $\psi$ is the #conclusion 
+-  $\phi_1,....,\phi_n$  are **premises**, and $\psi$ is the **conclusion** 
 
 ### Rules for Natural Deduction:
 
