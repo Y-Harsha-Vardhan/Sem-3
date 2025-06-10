@@ -44,7 +44,7 @@ Transform any proof  $\phi_1,....,\phi_n$ $\vdash$ $\psi$  to
 
  -  In the course of a proof, if you assume $\phi$  (by opening a box) and obtain $\perp$ in the box, then we conclude $\neg\phi$ .  This rule is denoted:  $\neg$ i  and is read as  $\neg$ introduction. This is also known as Proof By Contradiction (PBC).
  
- -  Law of Excluded Middle (LEM) :  For a given propositional statement  $\phi$,  $\phi \lor \neg\phi$  i.e., the statement is either true / false, there is no middle ground.
+ -  Law of Excluded Middle (LEM) :  For a given propositional statement  $\phi$,  $\phi \lor \neg\phi$  i.e., the statement is either true / false, there is no middle ground. ( $\vdash \phi \lor \neg\phi$) 
 
  - All the above rules were used in a purely "syntactic" proof.
  
@@ -56,3 +56,27 @@ Each propositional variable is assigned values: true/false. Truth tables for eac
 
 -  Formulae  $\phi$ and $\psi$  are provably equivalent  iff  $\phi\vdash\psi$  and  $\psi\vdash\phi$ 
 	Formulae  $\phi$ and $\psi$  are semantically equivalent iff  $\phi\models\psi$ and $\psi\models\phi$ 
+
+-  Given, two formulae $\phi_1$ and $\phi_2$ ,  $\phi_1 \dashv\vdash \phi_2$  indicates that the two formulae are provably equivalent in the sense that we can prove one from another.                  Each instance of $\dashv\vdash$ can only relate two formulae to each other.                                   This is also means that the sequent:   $\vdash$ ($\phi\to\psi$) $\land$ ($\psi\to\phi$)  is valid. 
+
+#### Soundness of Propositional Logic:
+
+-  Whenever $\psi$ can be proven from $\phi_1,...,\phi_n$ , then $\psi$ evaluates to true, whenever $\phi_1,...,\phi_n$ evaluate to true.  ($\phi_1,...,\phi_n\vdash\psi$  $\Rightarrow$ $\phi_1,...,\phi_n \models\psi$) 
+-  Assume $\phi_1,...,\phi_n\vdash\psi$ .
+-  There is some proof (of length k lines) that yields $\psi$. Induct on k.
+-  When k=1, there is only one line in the proof, say $\phi$, which is the premise. Then we have $\phi\vdash\phi$ , since $\phi$ is given. But then we also have $\phi\models\phi$.
+-  Assume that whenever $\phi_1,...,\phi_n\vdash\psi$ using a proof of length $\leq$ k-1, we have $\phi_1,...,\phi_n\models\psi$ .
+-  Consider now a proof with k lines.
+-  Assume $\psi$ was obtained using $\land$i. Then $\psi$ is of the form $\psi_1\land\psi_2$ .
+-  $\psi_1$ and $\psi_2$ were proved earlier, say in lines $k_1$, $k_2$ < k.
+-  We have the shorter proofs $\phi_1,...,\phi_n\vdash\psi_1$ and $\phi_1,...,\phi_n\vdash\psi_2$ 
+-  By inductive hypothesis, we have $\phi_1,...,\phi_n\models\psi_1$ and $\phi_1,...,\phi_n\models\psi_2$ . By semantics, we have $\phi_1,...,\phi_n\models\psi_1\land\psi_2$ 
+-  Similarly, if $\psi$ was obtained using $\to$i. Then it will be of the form $\psi_1\to\psi_2$ .
+
+#### Completeness:
+
+-  Whenever $\phi_1,...,\phi_n$ semantically entail $\psi$, then $\psi$ can be proved from $\phi_1,...,\phi_n$. The proof rules are complete.    ( $\phi_1,...,\phi_n\models\psi$ $\Rightarrow$ $\phi_1,...,\phi_n\vdash\psi$ )
+-  Given $\phi_1,...,\phi_n\models\psi$
+-  Step 1: Show that   $\models$ $\phi_1\to$ ($\phi_2\to$ . . . ($\phi_n\to\psi$) . . . )) 
+-  Step 2: Show that   $\vdash$ $\phi_1\to$ ($\phi_2\to$ . . . ($\phi_n\to\psi$) . . . )) 
+-  Step 3: Show that   $\phi_1,...,\phi_n\vdash\psi$ 
