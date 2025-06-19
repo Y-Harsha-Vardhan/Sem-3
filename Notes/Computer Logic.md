@@ -80,3 +80,12 @@ Each propositional variable is assigned values: true/false. Truth tables for eac
 -  Step 1: Show that   $\models$ $\phi_1\to$ ($\phi_2\to$ . . . ($\phi_n\to\psi$) . . . )) 
 -  Step 2: Show that   $\vdash$ $\phi_1\to$ ($\phi_2\to$ . . . ($\phi_n\to\psi$) . . . )) 
 -  Step 3: Show that   $\phi_1,...,\phi_n\vdash\psi$ 
+
+#### Truth Table to Proof:
+Let $\phi$ be a formula with variables  $p_1, ..., p_n$ . Let  $\tau$ be the truth table of $\phi$, and let *l* be a line number in $\tau$.  Let  $\hat{p_i}$ represent  $p_i$ ,  if  $p_i$  is assigned true in line *l*, and let it denote $\neg p_i$ if $p_i$ is assigned false in line *l*. Then 
+
+1.  $\hat{p_1},...,\hat{p_n}$  $\vdash$  $\phi$  if  $\phi$  evaluates to true in line *l*.
+2.  $\hat{p_1},...,\hat{p_n}$  $\vdash$  $\neg\phi$  if  $\phi$  evaluates to false in line *l*.
+
+***Propositional Logic is sound and complete.***
+
