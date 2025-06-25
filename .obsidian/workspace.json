@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fcacee5d5b58cb0c",
+        "id": "c5ca8f8f22720ce7",
         "type": "tabs",
         "children": [
           {
-            "id": "43dcb4499e3d581c",
+            "id": "3b0b9cbd6c8cfd9c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "e6fca993420b8398",
@@ -180,31 +179,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "43dcb4499e3d581c",
+  "active": "3b0b9cbd6c8cfd9c",
   "lastOpenFiles": [
     "Notes/Economics.md",
-    "Notes/attachments/Pasted image 20250618112636.png",
-    "Notes/attachments/Pasted image 20250618112300.png",
-    "Notes/attachments/Pasted image 20250618112248.png",
-    "Notes/attachments/Pasted image 20250618111559.png",
-    "Notes/attachments/Pasted image 20250618111209.png",
-    "Notes/attachments/Pasted image 20250618111155.png",
-    "Notes/attachments/Pasted image 20250618110900.png",
-    "Notes/attachments/Pasted image 20250618110336.png",
-    "Sem-3-Resources/EC101/Slides/1_MicroEconomics/Lecture-10.pdf",
-    "Notes/attachments/Pasted image 20250618105043.png",
-    "Notes/attachments/Pasted image 20250618105032.png",
-    "Sem-3-Resources/EC101/Slides/1_MicroEconomics/Lecture-09.pdf",
-    "Sem-3-Resources/EC101/Slides/1_MicroEconomics/Lecture-08.pdf",
-    "Sem-3-Resources/EC101/Slides/1_MicroEconomics/Lecture-07.pdf",
+    "Notes/attachments/Pasted image 20250625085506.png",
+    "Notes/attachments/Pasted image 20250625085457.png",
+    "Notes/attachments/Pasted image 20250625085446.png",
+    "Notes/attachments/Pasted image 20250625085426.png",
+    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/31_OpenEconomy.pdf",
+    "Notes/attachments/Pasted image 20250625082626.png",
+    "Notes/attachments/Pasted image 20250625082618.png",
+    "Notes/attachments/Pasted image 20250625075152.png",
+    "Notes/attachments/Pasted image 20250625075139.png",
+    "Notes/attachments/Pasted image 20250625075129.png",
+    "Notes/attachments/Pasted image 20250625074150.png",
+    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/30_MoneyGrowthAndInflation.pdf",
+    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/29_TheMonetarySystem.pdf",
+    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/28_Unemployment.pdf",
+    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/27_BasicToolsOfFinance.pdf",
+    "Sem-3-Resources/CS215/Slides/Lecture_00-introduction.pdf",
+    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/26_SavingInvestmentAndFinancialSystem.pdf",
+    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/25_ProductionAndGrowth.pdf",
+    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/24_CostOfLiving.pdf",
+    "Sem-3-Resources/README.md",
+    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/23_NationsIncome.pdf",
     "Notes/Quantitative Finance/Week 2 Basics of Finance.md",
-    "Sem-3-Resources/CS213/References/IntroductionToAlgorithms.pdf",
     "Notes/Data Structures & Algorithms.md",
-    "Sem-3-Resources/CS213/Slides/lec-01-why-ds.pdf",
-    "Sem-3-Resources/CS213/Slides/lec-02-containers.pdf",
-    "Sem-3-Resources/CS213/Slides/lec-03-stack-queue.pdf",
-    "Sem-3-Resources/EC101/Slides/1_MicroEconomics/Lecture-06.pdf",
-    "Sem-3-Resources/EC101/Slides/1_MicroEconomics/Lecture-05.pdf",
     "Notes/Computer Logic.md",
     "Notes/Logical and Greek Symbols.md",
     "Notes/CP SoS/Midterm Report.md",
@@ -225,7 +225,6 @@
     "2025-06-06.md",
     "Sem-3-Resources/CS293/Resources/Aut23-Quiz2/README.md",
     "CS228-Logic/Description.md",
-    "Computer Logic.md",
-    "Sem-3-Resources/README.md"
+    "Computer Logic.md"
   ]
 }
