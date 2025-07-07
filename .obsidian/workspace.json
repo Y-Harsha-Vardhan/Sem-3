@@ -4,17 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "c5ca8f8f22720ce7",
+        "id": "87bb205e9d9278a8",
         "type": "tabs",
         "children": [
           {
-            "id": "3b0b9cbd6c8cfd9c",
+            "id": "d217bf0247dea381",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "🔲Kanban/Summer 2025.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Summer 2025"
             }
           }
         ]
@@ -179,41 +189,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3b0b9cbd6c8cfd9c",
+  "active": "d217bf0247dea381",
   "lastOpenFiles": [
-    "Notes/Economics.md",
-    "Notes/attachments/Pasted image 20250625085506.png",
-    "Notes/attachments/Pasted image 20250625085457.png",
-    "Notes/attachments/Pasted image 20250625085446.png",
-    "Notes/attachments/Pasted image 20250625085426.png",
-    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/31_OpenEconomy.pdf",
-    "Notes/attachments/Pasted image 20250625082626.png",
-    "Notes/attachments/Pasted image 20250625082618.png",
-    "Notes/attachments/Pasted image 20250625075152.png",
-    "Notes/attachments/Pasted image 20250625075139.png",
-    "Notes/attachments/Pasted image 20250625075129.png",
-    "Notes/attachments/Pasted image 20250625074150.png",
-    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/30_MoneyGrowthAndInflation.pdf",
-    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/29_TheMonetarySystem.pdf",
-    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/28_Unemployment.pdf",
-    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/27_BasicToolsOfFinance.pdf",
-    "Sem-3-Resources/CS215/Slides/Lecture_00-introduction.pdf",
-    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/26_SavingInvestmentAndFinancialSystem.pdf",
-    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/25_ProductionAndGrowth.pdf",
-    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/24_CostOfLiving.pdf",
+    "Notes/Logical and Greek Symbols.md",
+    "Notes/Data Analysis and Interpretation.md",
+    "Notes/attachments/Pasted image 20250707091108.png",
+    "Notes/attachments/Pasted image 20250707091059.png",
+    "Notes/attachments/Pasted image 20250707091051.png",
+    "Notes/attachments/Pasted image 20250707091044.png",
+    "Notes/attachments/Pasted image 20250707091035.png",
+    "Notes/attachments/Pasted image 20250707091024.png",
+    "Notes/attachments/Pasted image 20250707091016.png",
+    "Notes/attachments/Pasted image 20250707091006.png",
+    "Notes/attachments/Pasted image 20250707090959.png",
+    "Notes/attachments/Pasted image 20250707090926.png",
+    "🔲Kanban/Summer 2025.md",
+    "Notes/CP SoS/Solved Problems.md",
+    "Sem-3-Resources/CS228/Exams/PopQuiz1.pdf",
+    "Sem-3-Resources/CS228/Exams/Midsem.pdf",
+    "Sem-3-Resources/CS215/Assignments/A2/a2_hand_gray.pdf",
+    "Sem-3-Resources/CS215/Assignments/A2/a2_hand.pdf",
+    "Sem-3-Resources/CS215/Assignments/A1/a1_solutions.pdf",
+    "Sem-3-Resources/CS215/Assignments/A1/A1.pdf",
     "Sem-3-Resources/README.md",
-    "Sem-3-Resources/EC101/Slides/2_MacroEconomics/23_NationsIncome.pdf",
+    "Sem-3-Resources/CS215/Exams/cs215_midsem_solutions.pdf",
+    "Notes/CP SoS/Codeforces Solved Problems.md",
+    "Sem-3-Resources/CS215/Slides/Lecture_10-poisson.pdf",
+    "Sem-3-Resources/CS215/Slides/Lecture_09-discreteRV.pdf",
+    "Sem-3-Resources/CS215/Slides/Lecture_08-discreteRVs.pdf",
+    "Notes/Untitled.md",
+    "Sem-3-Resources/PopularElectives/README.md",
+    "Notes/Economics.md",
     "Notes/Quantitative Finance/Week 2 Basics of Finance.md",
     "Notes/Data Structures & Algorithms.md",
     "Notes/Computer Logic.md",
-    "Notes/Logical and Greek Symbols.md",
     "Notes/CP SoS/Midterm Report.md",
     "Notes/Quantitative Finance/Week 1 Probability And Stochastic Calculus.md",
-    "🔲Kanban/Summer 2025.md",
     "Notes/Quantitative Finance/Week 1-Answers.md",
     "LSTM Project Statement.md",
     "Excalidraw/Drawing 2025-06-11 11.47.58.excalidraw.md",
-    "Notes/CP SoS/Codeforces Solved Problems.md",
     "CS228-Logic/Untitled.md",
     "Notes/CP SoS/Selected Problems Thinking Explanation.md",
     "Untitled Kanban.md",
@@ -221,10 +235,6 @@
     "Notes/Quantitative Finance/Week 1 - Probability And Stochastic Calculus.md",
     "Notes/Selected Problems Thinking Explanation.md",
     "Notes/Codeforces Solved Problems.md",
-    "2025-06-07.md",
-    "2025-06-06.md",
-    "Sem-3-Resources/CS293/Resources/Aut23-Quiz2/README.md",
-    "CS228-Logic/Description.md",
-    "Computer Logic.md"
+    "2025-06-07.md"
   ]
 }

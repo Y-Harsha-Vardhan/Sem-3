@@ -7,19 +7,20 @@ kanban-plugin: board
 ## Sem-3 Preparation
 
 - [ ] CS228-Logic
-- [ ] EC101-Economics
+- [x] EC101-Economics
 - [ ] CS213-DSA
+- [x] CS215-DAI
 
 
 ## CP SoS
 
 - [x] Complete Midterm Report
-- [ ] Complete Endterm Report
+- [x] Complete Endterm Report
 
 
 ## Quantitative Finance
 
-- [x] Read First Week Material
+- [ ] Read First Week Material
 - [ ] Read Second Week Material
 
 
