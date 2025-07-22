@@ -4,27 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "87bb205e9d9278a8",
+        "id": "b9606ecb10bb504d",
         "type": "tabs",
         "children": [
           {
-            "id": "d217bf0247dea381",
+            "id": "b3915bde71dc1f46",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "🔲Kanban/Summer 2025.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Summer 2025"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -189,52 +179,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d217bf0247dea381",
+  "active": "2be2f504f421180d",
   "lastOpenFiles": [
-    "Notes/Logical and Greek Symbols.md",
-    "Notes/Data Analysis and Interpretation.md",
-    "Notes/attachments/Pasted image 20250707091108.png",
-    "Notes/attachments/Pasted image 20250707091059.png",
-    "Notes/attachments/Pasted image 20250707091051.png",
-    "Notes/attachments/Pasted image 20250707091044.png",
-    "Notes/attachments/Pasted image 20250707091035.png",
-    "Notes/attachments/Pasted image 20250707091024.png",
-    "Notes/attachments/Pasted image 20250707091016.png",
-    "Notes/attachments/Pasted image 20250707091006.png",
-    "Notes/attachments/Pasted image 20250707090959.png",
-    "Notes/attachments/Pasted image 20250707090926.png",
-    "🔲Kanban/Summer 2025.md",
-    "Notes/CP SoS/Solved Problems.md",
-    "Sem-3-Resources/CS228/Exams/PopQuiz1.pdf",
-    "Sem-3-Resources/CS228/Exams/Midsem.pdf",
-    "Sem-3-Resources/CS215/Assignments/A2/a2_hand_gray.pdf",
-    "Sem-3-Resources/CS215/Assignments/A2/a2_hand.pdf",
-    "Sem-3-Resources/CS215/Assignments/A1/a1_solutions.pdf",
-    "Sem-3-Resources/CS215/Assignments/A1/A1.pdf",
-    "Sem-3-Resources/README.md",
-    "Sem-3-Resources/CS215/Exams/cs215_midsem_solutions.pdf",
-    "Notes/CP SoS/Codeforces Solved Problems.md",
-    "Sem-3-Resources/CS215/Slides/Lecture_10-poisson.pdf",
-    "Sem-3-Resources/CS215/Slides/Lecture_09-discreteRV.pdf",
-    "Sem-3-Resources/CS215/Slides/Lecture_08-discreteRVs.pdf",
-    "Notes/Untitled.md",
-    "Sem-3-Resources/PopularElectives/README.md",
-    "Notes/Economics.md",
-    "Notes/Quantitative Finance/Week 2 Basics of Finance.md",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_9.png",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_8.png",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_6.png",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_14.png",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_7.png",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_5.png",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_4.png",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_2.png",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_3.png",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_16.png",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_15.png",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/credits.txt",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/points2D_Set2.mat",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/mnist.mat",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/points2D_Set1.mat",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments 2024-25/A4/A4_solutions.ipynb",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments 2024-25/A5/Q1.ipynb",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments 2024-25/A5/TaxiData.csv",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments 2024-25/A5/Assignment-5.pdf",
+    "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments 2024-25/A4/a4.pdf",
+    "Notes/CP SoS/Video Script.md",
     "Notes/Data Structures & Algorithms.md",
     "Notes/Computer Logic.md",
-    "Notes/CP SoS/Midterm Report.md",
+    "🔲Kanban/Sem - 3.md",
+    "🔲Kanban/Exams.md",
+    "Notes/2022 - Midsem.md",
+    "Notes/Quantitative Finance/Week 6 Swaps.md",
+    "Notes/Quantitative Finance/Week 5 Derivatives.md",
+    "Notes/Economics.md",
+    "Notes/Data Analysis and Interpretation.md",
+    "Notes/Quantitative Finance/Week 4 Univariate Time Series.md",
+    "Notes/Quantitative Finance/Week 3 Time Series Analysis.md",
+    "Notes/Quantitative Finance/Week 2 Basics of Finance.md",
     "Notes/Quantitative Finance/Week 1 Probability And Stochastic Calculus.md",
+    "Notes/Logical and Greek Symbols.md",
+    "Notes/CP SoS/Solved Problems.md",
+    "Sem-3-Resources/README.md",
+    "Notes/CP SoS/Codeforces Solved Problems.md",
+    "Sem-3-Resources/PopularElectives/README.md",
+    "Notes/CP SoS/Midterm Report.md",
     "Notes/Quantitative Finance/Week 1-Answers.md",
     "LSTM Project Statement.md",
     "Excalidraw/Drawing 2025-06-11 11.47.58.excalidraw.md",
     "CS228-Logic/Untitled.md",
-    "Notes/CP SoS/Selected Problems Thinking Explanation.md",
-    "Untitled Kanban.md",
-    "Notes/Quantitative Finance/Week 1 Probability And Stochastic Calculus 20d8bee770268088baa1f5dea6883dfd.md",
-    "Notes/Quantitative Finance/Week 1 - Probability And Stochastic Calculus.md",
-    "Notes/Selected Problems Thinking Explanation.md",
-    "Notes/Codeforces Solved Problems.md",
-    "2025-06-07.md"
+    "Notes/CP SoS/Selected Problems Thinking Explanation.md"
   ]
 }

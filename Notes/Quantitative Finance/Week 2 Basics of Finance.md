@@ -28,7 +28,7 @@ The 4 most popular asset classes are:
 5. Gold and silver are relatively safer investments, but historical returns have not been consistently high
 6. By understanding these factors, you can make informed investment decisions aligned with your risk tolerance and financial goals.
 
-## (b)STOCKS & STOCK MARKET:
+## (b) STOCKS & STOCK MARKET:
 
 ### **What are stocks?**
 
@@ -41,10 +41,10 @@ The stock market is a centralized platform where investors trade stocks and othe
 ## (c) MARKET PARTICIPANTS:
 
 1. **Retail investors:** Individual traders who buy and sell shares for their personal portfolios.
-2. **Institutional investors**: Large organisations (e.g., mutual funds, pension funds, insurance companies) that invest substantial sums on behalf of clients or beneficiaries.
+2. **Institutional investors**: Large organizations (e.g., mutual funds, pension funds, insurance companies) that invest substantial sums on behalf of clients or beneficiaries.
 3. **Regulators:** Government agencies (such as the Securities and Exchange Board) that set rules, monitor compliance, and protect investor interests.
 4. **Market intermediaries:** Brokers, dealers, and investment banks that facilitate buying, selling, and settlement of securities.
-5. **Stock Exchanges:** Centralised platforms (e.g., NSE, BSE) where listed securities are matched between buyers and sellers.
+5. **Stock Exchanges:** Centralized platforms (e.g., NSE, BSE) where listed securities are matched between buyers and sellers.
 
 [Chapter 3: Learn the Basics of Stock Market Participants and Regulators  - ICICIdirect](https://www.icicidirect.com/ilearn/stocks/courses/chapter-3-stock-market-participants-and-regulator)
 

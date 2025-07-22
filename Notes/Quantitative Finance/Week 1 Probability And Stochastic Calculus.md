@@ -249,13 +249,13 @@ $M_X(t) = E[e^{tX}]$ for t in some neighborhood of 0
 
 ### Common MGFs
 
-| **Distribution** | **MGF** |
-| --- | --- |
-| Bernoulli(p) | `$1 - p + pe^t$` |
-| Binomial(n,p) | `$(1 - p + pe^t)^n$` |
-| Poisson(λ) | `$exp(λ(e^t - 1))$` |
-| Normal(μ,σ²) | `$exp(μt + σ²t²/2)$` |
-| Exponential(λ) | `$λ/(λ - t), t < λ$` |
+| **Distribution** | **MGF**            |
+| ---------------- | ------------------ |
+| Bernoulli(p)     | `1 - p + pe^t`     |
+| Binomial(n,p)    | `(1 - p + pe^t)^n` |
+| Poisson(λ)       | `exp(λ(e^t - 1))`  |
+| Normal(μ,σ²)     | `exp(μt + σ²t²/2)` |
+| Exponential(λ)   | `λ/(λ - t), t < λ` |
 
 ### Characteristic Functions
 
@@ -495,7 +495,7 @@ $E[Total] = E[X_1] + E[X_2] + ... + E[X_n] = 0 + 0 + ... + 0 = 0$
 
 **Variance**: $Var(X) = E[X²] - (E[X])²$
 
-**MGF**: $M_X(t) = E[e^(tX)], E[Xⁿ] = M_X^(n)(0)$
+**MGF**: $M_X(t) = E[e^{(tX)}], E[Xⁿ] = M_X^{(n)}(0)$
 
 **Covariance**: $Cov(X,Y) = E[XY] - E[X]E[Y]$
 

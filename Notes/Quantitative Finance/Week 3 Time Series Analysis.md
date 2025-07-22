@@ -4,13 +4,13 @@
 
 ## What?
 
-Time series analysis is a crucial tool in financial markets used to study and forecast the behaviour of various financial variables like stock prices, interest rates and exchange rates. 
+Time series analysis is a crucial tool in financial markets used to study and forecast the behavior of various financial variables like stock prices, interest rates and exchange rates. 
 
 A time series refers to a collection of data points recorded at different time intervals for a particular variable. Examples include a company’s quarterly sales, daily stock returns, or monthly currency exchange rates. What sets time series data apart is that each observation is tied to a specific point in time, maintaining a chronological order.
 
 ## Characteristics
 
-Time series data often shows specific patterns that are important to recognise for accurate analysis and forecasting:
+Time series data often shows specific patterns that are important to recognize for accurate analysis and forecasting:
 
 1. **Trends:** These are long-term movements in the data, showing a consistent rise or fall over time.
 2. **Seasonality**: Time series may follow recurring patterns at fixed intervals, such as daily, weekly, or yearly, due to seasonal effects.
@@ -42,7 +42,7 @@ There are a number of ways to test if your time series is stationary:
 1. **Unit Root Tests**: Tests like the Augmented Dickey-Fuller (ADF) and Zivot-Andrews are used to see if the series has a unit root, which is a red flag for non-stationarity.
 2. **KPSS Test**: This test works a bit differently - it checks if the series is stationary around a trend or needs differencing to become stationary.
 3. **Run Sequence Plots**: A simple but effective visual method. These plots show the data over time and help spot trends or seasonal patterns.
-4. **Less Common Tests**: There are more advanced methods like the Priestley-Subba Rao test or wavelet-based techniques, which are used in more specialised scenarios.
+4. **Less Common Tests**: There are more advanced methods like the Priestley-Subba Rao test or wavelet-based techniques, which are used in more specialized scenarios.
 
 ### How to make a time series stationary?
 
