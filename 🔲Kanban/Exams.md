@@ -6,10 +6,11 @@ kanban-plugin: board
 
 ## Quizzes
 
-- [ ] EC101 Quiz 1 - Aug 18
-- [ ] DSA Quiz 1 - Aug 20
-- [ ] Logic - Quiz 1 - Aug 22
+- [x] EC101 Quiz 1 - Aug 20
+- [x] DSA Quiz 1 - Aug 20
+- [x] Logic - Quiz 1 - Aug 22
 - [ ] Cryptography - Quiz 1 - Sep 3
+- [ ] DAI - Quiz 1 - Sep 6
 - [ ] DLDCA Quiz 1 - Sep 1st/2nd week
 - [ ] Logic - Quiz 2 - Oct 17
 - [ ] DSA Quiz 2 - Oct 23
@@ -18,13 +19,16 @@ kanban-plugin: board
 
 ## Lab Exams
 
-- [ ] DSA Lab Exam 1 - Aug 21
+- [ ] DSA Lab Exam 1 - Aug 29
 
 
 ## Assignments
 
 - [x] Complete Cryptography Lab 1 Assignment
-- [ ] Complete DAI HW 1
+- [x] Complete DLDCA Lab 1 Work
+- [x] Complete DAI HW 1
+- [x] Complete Logic Assignment
+- [ ] Complete Cryptography Assignment 1
 
 
 
