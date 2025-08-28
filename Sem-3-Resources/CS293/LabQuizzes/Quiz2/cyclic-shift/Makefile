@@ -32,7 +32,7 @@ testcases: $(TCZIP)
 # Run short testcases supplied as text files
 short: $(TARGET) testcases
 	@echo "Running Short Testcases"
-	@for i in `seq $(shell echo 1 | bc) $(shell echo $(SHORT) | bc)`; do \
+	@for i in `seq 1 $(SHORT)`; do \
 		echo "\033[0;36m\nTestcase $$i\033[0m"; \
 		./$(TARGET) < testcases/inputs/$$i.txt > output.txt; \
 		if diff -Bw output.txt testcases/outputs/$$i.txt; then \
@@ -43,7 +43,6 @@ short: $(TARGET) testcases
 	done
 	@rm -f output.txt
 
-# Run long testcases (requires python)
 long: $(TARGET) testcases
 	@echo "Running Long Testcases"
 	@PYTHON=$(shell command -v python || command -v python3 || echo ""); \
@@ -51,7 +50,7 @@ long: $(TARGET) testcases
 		echo "\033[0;31mPython not present\033[0m"; \
 		exit 1; \
 	fi; \
-	for i in `seq $(shell echo $(SHORT)+1 | bc) $(shell echo $(SHORT)+$(LONG) | bc)`; do \
+	for i in `seq $$(( $(SHORT)+1 )) $$(( $(SHORT)+$(LONG) ))`; do \
 		echo "\033[0;36m\nTestcase $$i\033[0m"; \
 		if [ $$i -lt 14 ]; then \
 			./$(TARGET) < testcases/inputs/$$i.txt > output.txt; \

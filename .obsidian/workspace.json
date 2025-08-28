@@ -28,6 +28,30 @@
             }
           },
           {
+            "id": "405f1732894c1cb3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exam Papers/CS230 DLDCA/DigitalLogic-Quiz1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DigitalLogic-Quiz1"
+            }
+          },
+          {
+            "id": "dc6cc667e2e24134",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exam Papers/CS230 DLDCA/MidsemSolutions.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "MidsemSolutions"
+            }
+          },
+          {
             "id": "bdc7818160dc4e73",
             "type": "leaf",
             "state": {
@@ -51,7 +75,8 @@
               "title": "quiz1_makeup_soln"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,11 +240,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c2b2e4a2e9fd89fc",
+  "active": "405f1732894c1cb3",
   "lastOpenFiles": [
+    "Exam Papers/CS230 DLDCA/MidsemSolutions.pdf",
+    "Exam Papers/CS230 DLDCA/Quiz2-solutions.pdf",
+    "Exam Papers/CS230 DLDCA/DigitalLogic-Quiz1.pdf",
+    "🔲Kanban/Exams.md",
     "Exam Papers/CS215 DAI/Ajit Rajwade 2023-24/quiz1_makeup_soln.pdf",
     "Exam Papers/CS215 DAI/Ajit Rajwade 2023-24/quiz1_sol.pdf",
-    "🔲Kanban/Exams.md",
     "Notes/Economics Notes/Economics Quiz-1.md",
     "Exam Papers/EC101/2023 - Micro_Quiz.pdf",
     "CS230-Design and Architecture/Labs/week3/24b1069.tar.gz",
@@ -227,9 +255,6 @@
     "CS230-Design and Architecture/Labs/week3/24b1069/task2/testbench.v",
     "CS230-Design and Architecture/Labs/week3/24b1069/task2/test",
     "CS230-Design and Architecture/Labs/week3/24b1069/task2/module.v",
-    "CS230-Design and Architecture/Labs/week3/24b1069/task2",
-    "CS230-Design and Architecture/Labs/week3/24b1069/task1/test",
-    "CS230-Design and Architecture/Labs/week3/24b1069/task1/module.v",
     "Exam Papers/CS213 DSA/2023-24 Papers/Quiz1.jpeg",
     "Notes/Data Analysis and Interpretation.md",
     "Notes/Economics Notes/Economics.md",

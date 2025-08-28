@@ -56,8 +56,36 @@ using namespace std;
 
 // given a balanced bracket sequence and an array A calculate its score, return -1 if the sequence is not balanced
 long long score(vector<int> A, int n, string balanced_parentheses){
+    long long ans=0;
+    stack<int> ind;
+    for (int i=0; i<n; i++) {
+        if (balanced_parentheses[i] == '(') ind.push(i);
+        else {
+            if (ind.empty()) return -1;
+            int x = ind.top();
+            ind.pop();
+            ans += llabs((long long)A[i] - (long long)A[x]);
+        }
+    }
+    if (!ind.empty()) return -1;
+    return ans;
 }
 
 // given an array A, return the balanced parenthesis that maximises the score, return an empty string if not possible
 string max_balanced_parentheses(vector<int> A, int n){
+    if (n%2 == 1) return "";
+    vector<pair<int, int>> data;
+    for (int i=0; i<n; i++) data.push_back({A[i], i});
+    sort(data.begin(), data.end());
+
+    string s(n, ' ');
+    for (int i=0; i<n/2; i++) {
+        int l = data[i].second;
+        int r = data[n-1-i].second;
+        if (l > r) swap(l, r);
+        s[l] = '(';
+        s[r] = ')';
+    }
+
+    return s;
 }

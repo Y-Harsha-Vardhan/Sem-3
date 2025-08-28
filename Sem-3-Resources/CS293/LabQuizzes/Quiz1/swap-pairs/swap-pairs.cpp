@@ -1,7 +1,7 @@
 #include "swap-pairs.h"
 
 // In this question, you have to reverse the adjacent nodes of a singly linked list.
-// The nodes will have only the data and the link of the next node.
+// The nodes will have only the data and the link of the link node.
 // In last node, the link part of the node will be nullptr.
 // 'head' is a pointer that holds the address of the first node of the linked list.
 // If the linked list is empty or contains one element you don't need to reverse.
@@ -16,4 +16,25 @@
 // For more examples, please look at testcases folder
 
 void reverseAdjacentNodes(Node*& head) {
+    if (head == nullptr || head->link == nullptr) return;
+
+    Node dummy(0) ;   // helper node before head
+    dummy.link = head;
+    Node* prev = &dummy;
+
+    while (prev->link != nullptr && prev->link->link != nullptr) {
+        Node* first = prev->link;
+        Node* second = first->link;
+
+        // swap
+        first->link = second->link;
+        second->link = first;
+        prev->link = second;
+
+        // move forward
+        prev = first;
+    }
+
+    head = dummy.link;
+  
 }
