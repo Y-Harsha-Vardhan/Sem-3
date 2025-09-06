@@ -19,7 +19,7 @@ kanban-plugin: board
 
 ## Lab Exams
 
-- [ ] DSA Lab Exam 1 - Aug 29
+- [x] DSA Lab Exam 1 - Aug 29
 
 
 ## Assignments
@@ -28,7 +28,7 @@ kanban-plugin: board
 - [x] Complete DLDCA Lab 1 Work
 - [x] Complete DAI HW 1
 - [x] Complete Logic Assignment
-- [ ] Complete Cryptography Assignment 1
+- [ ] Complete Cryptography Assignment 1 and 2
 
 
 

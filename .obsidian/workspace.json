@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "c07add089a0ea4f2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exam Papers/CS409-Cryptography/2024 Quiz-1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2024 Quiz-1"
+            }
+          },
+          {
             "id": "405f1732894c1cb3",
             "type": "leaf",
             "state": {
@@ -74,9 +86,21 @@
               "icon": "lucide-file-text",
               "title": "quiz1_makeup_soln"
             }
+          },
+          {
+            "id": "27c6e3bd790c5590",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exam Papers/CS215 DAI/Ajit Rajwade 2023-24/midsem.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "midsem"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -240,21 +264,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "405f1732894c1cb3",
+  "active": "bdc7818160dc4e73",
   "lastOpenFiles": [
-    "Exam Papers/CS230 DLDCA/MidsemSolutions.pdf",
-    "Exam Papers/CS230 DLDCA/Quiz2-solutions.pdf",
-    "Exam Papers/CS230 DLDCA/DigitalLogic-Quiz1.pdf",
-    "🔲Kanban/Exams.md",
     "Exam Papers/CS215 DAI/Ajit Rajwade 2023-24/quiz1_makeup_soln.pdf",
     "Exam Papers/CS215 DAI/Ajit Rajwade 2023-24/quiz1_sol.pdf",
+    "Exam Papers/CS215 DAI/Ajit Rajwade 2023-24/midsem.pdf",
+    "CS230-Design and Architecture/Labs/assembly_outlab1/outlab/check.sh",
+    "CS230-Design and Architecture/Labs/assembly_outlab1/check.sh",
+    "CS230-Design and Architecture/Labs/assembly_outlab1/outlab/24b1069.tar.gz",
+    "CS230-Design and Architecture/Labs/assembly_outlab1/outlab/24b1069/task2/mod-regs.txt",
+    "CS230-Design and Architecture/Labs/assembly_outlab1/outlab/24b1069/task2/compile.sh",
+    "CS230-Design and Architecture/Labs/assembly_outlab1/outlab/24b1069/task2/run-gdb.asm",
+    "CS230-Design and Architecture/Labs/assembly_outlab1/outlab/24b1069/task1/compile.sh",
+    "CS230-Design and Architecture/Labs/assembly_outlab1/outlab/24b1069/task1/add-nums.asm",
+    "🔲Kanban/Exams.md",
     "Notes/Economics Notes/Economics Quiz-1.md",
-    "Exam Papers/EC101/2023 - Micro_Quiz.pdf",
-    "CS230-Design and Architecture/Labs/week3/24b1069.tar.gz",
-    "CS230-Design and Architecture/Labs/week3/24b1069/task1/testbench.v",
-    "CS230-Design and Architecture/Labs/week3/24b1069/task2/testbench.v",
-    "CS230-Design and Architecture/Labs/week3/24b1069/task2/test",
-    "CS230-Design and Architecture/Labs/week3/24b1069/task2/module.v",
     "Exam Papers/CS213 DSA/2023-24 Papers/Quiz1.jpeg",
     "Notes/Data Analysis and Interpretation.md",
     "Notes/Economics Notes/Economics.md",
