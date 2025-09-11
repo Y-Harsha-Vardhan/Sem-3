@@ -17,16 +17,22 @@ if [[ ! -f "$TARFILE" ]]; then
     exit 1
 fi
 
+mkdir unique_folder
+scp "$TARFILE" unique_folder
+cd unique_folder
+
 rm -rf "$DIR"
 
 tar -xzf "$TARFILE" || { echo "Failed to extract $TARFILE"; exit 1; }
 
 EXPECTED=(
-    "$DIR/task1/add-nums.asm"
+    "$DIR/task1/cmplx_arith.asm"
     "$DIR/task1/compile.sh"
-    "$DIR/task2/run-gdb.asm"
+    "$DIR/task2/polars_to_rect.asm"
     "$DIR/task2/compile.sh"
-    "$DIR/task2/mod-regs.txt"
+    "$DIR/task3/sieve.asm"
+    "$DIR/task3/sieve.c"
+    "$DIR/task3/compile.sh"
 )
 
 STATUS=0
@@ -45,5 +51,7 @@ else
     echo "Structure for $ROLL is incorrect."
 fi
 
-exit $STATUS
+cd ..
+rm -rf unique_folder
 
+exit $STATUS

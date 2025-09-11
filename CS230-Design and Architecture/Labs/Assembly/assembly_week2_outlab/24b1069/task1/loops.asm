@@ -83,8 +83,8 @@ _start:
     je .whileEnd
 
     xor rdx, rdx ; clearing rdx
-    mov rcx, 10  ; rbx = 10
-    div rcx      ; dividing rax by rbx, rax = quotient and rdx = remainder
+    mov rcx, 10  ; rcx = 10
+    div rcx      ; dividing rax by rcx, rax = quotient and rdx = remainder
 
     add dl, '0'  ; converting remainder into ASCII
     mov [buffer + r15], dl ; storing it in buffer[i]
