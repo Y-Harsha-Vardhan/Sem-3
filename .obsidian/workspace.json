@@ -29,6 +29,37 @@
             }
           },
           {
+            "id": "5a94c47d96fd0e74",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "🔲Kanban/Sem - 3.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Sem - 3"
+            }
+          },
+          {
+            "id": "12ef7e59ff6e9333",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exam Papers/CS213 DSA/cs213-midterm.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "cs213-midterm"
+            }
+          },
+          {
             "id": "dc6cc667e2e24134",
             "type": "leaf",
             "state": {
@@ -38,18 +69,6 @@
               },
               "icon": "lucide-file-text",
               "title": "MidsemSolutions"
-            }
-          },
-          {
-            "id": "27c6e3bd790c5590",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Exam Papers/CS215 DAI/Ajit Rajwade 2023-24/midsem.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "midsem"
             }
           },
           {
@@ -65,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,24 +248,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "27c6e3bd790c5590",
+  "active": "5a94c47d96fd0e74",
   "lastOpenFiles": [
     "Exam Papers/CS228 Logic/2024 - Midsem.pdf",
-    "🔲Kanban/Exams.md",
-    "Exam Papers/CS215 DAI/Ajit Rajwade 2023-24/midsem.pdf",
+    "🔲Kanban/Sem - 3.md",
+    "Exam Papers/CS213 DSA/cs213-midterm.pdf",
     "Exam Papers/CS230 DLDCA/MidsemSolutions.pdf",
+    "Exam Papers/EC101/2023 - Micro_Midsem.pdf",
+    "Exam Papers/CS215 DAI/Ajit Rajwade 2023-24/midsem.pdf",
+    "🔲Kanban/Exams.md",
     "Exam Papers/CS230 DLDCA/DigitalLogic-Quiz1.pdf",
     "Exam Papers/CS409-Cryptography/2024 Quiz-1.pdf",
     "Exam Papers/CS215 DAI/Ajit Rajwade 2023-24/quiz1_makeup_soln.pdf",
     "Exam Papers/CS215 DAI/Ajit Rajwade 2023-24/quiz1_sol.pdf",
     "CS230-Design and Architecture/Labs/assembly_outlab1/outlab/check.sh",
-    "CS230-Design and Architecture/Labs/assembly_outlab1/check.sh",
-    "CS230-Design and Architecture/Labs/assembly_outlab1/outlab/24b1069.tar.gz",
     "Notes/Economics Notes/Economics Quiz-1.md",
     "Exam Papers/CS213 DSA/2023-24 Papers/Quiz1.jpeg",
     "Notes/Data Analysis and Interpretation.md",
     "Notes/Economics Notes/Economics.md",
-    "🔲Kanban/Sem - 3.md",
     "Notes/Computer Logic.md",
     "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_9.png",
     "Exam Papers/CS215 DAI/Assignments and PracticeSets/Assignments/Assignment 2/data/data_fruit/image_8.png",

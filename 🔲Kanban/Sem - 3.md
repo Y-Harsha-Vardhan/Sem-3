@@ -4,28 +4,30 @@ kanban-plugin: board
 
 ---
 
-## CS Theory Courses
+## Saturday
 
-- [x] Read Cryptography Slides and make Notes
-- [x] Solve Problems in Logic
-- [x] Complete notes for DLDCA
-
-
-## CS Lab Courses
-
-- [x] Complete DSA Lab Questions
-- [ ] Look into the DLDCA Lab Topics
+- [x] Revise Logic Tutorial Problems
+- [x] Start practicing DAI questions
+- [x] Prepare for Economics
+- [ ] Complete Cryptography Assignment 1
+- [ ] Complete DSA Theory Revision
+- [x] Complete DLDCA Theory Revision and start Practice
 
 
-## EC 101
+## Sunday
 
-- [ ] Read the Reference Book
+- [ ] Try Logic Practice Sheet Questions
+- [ ] Complete Cryptography Assignment 2
+- [ ] Start DSA Lab Practice
+- [ ] Be ready for DLDCA exam
+- [ ] Complete Resume by today
+- [x] Practice DAI
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":true,"full-list-lane-width":false,"show-set-view":true}
+{"kanban-plugin":"board","list-collapse":[false,false],"show-checkboxes":true,"full-list-lane-width":false,"show-set-view":true}
 ```
 %%
